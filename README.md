@@ -18,6 +18,7 @@ How to make good, DRY (Don't reapet yourself) and quality code in JavaScript, SC
 <br><br>
 PROJECT JS : <br><br>
 ![Zrzut ekranu (3)](https://user-images.githubusercontent.com/99299154/194083826-edfaff21-ffb6-41e6-a8d8-b698022742af.png)
+<br>
 1. Learned how to use properly IF. <br>
 2. Learned how I should call new variables. <br>
 3. Continue of learning querySelector. <br>
