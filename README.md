@@ -29,4 +29,5 @@ PROJECT JS : <br><br>
 SUMMARY -> PROJECT JS <br>
 I have learned statement If. Still learning querySelectors, eventListeners and SCSS. <br>
 New thing that I learned is classList. <br>
-<br><br>
+<br><br><br>
+
