@@ -1,7 +1,7 @@
 GENERAL
 <br>
-This is the first two projects of mine. I am developing basics of JavaScript, logical thinking and algorithms.
-<br><br><br>
+This is the first two projects of mine. I am developing basics of JavaScript, logical thinking and algorithms. 
+<br><br>
 
 FIRST MINI PROJECT: <br><br>
 ![Zrzut ekranu (4)](https://user-images.githubusercontent.com/99299154/194084320-22a6b868-3307-4ccc-9432-91debd4fc9ed.png)
@@ -28,6 +28,8 @@ PROJECT JS : <br><br>
 <br><br>
 SUMMARY -> PROJECT JS <br>
 I have learned statement If. Still learning querySelectors, eventListeners and SCSS. <br>
-New thing that I learned is classList. <br>
+New thing that I learned is classList.<br>
+Showed me how much I have to learn still.
 <br><br><br>
+
 
