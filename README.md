@@ -32,3 +32,6 @@ New thing that I learned is classList.<br>
 Showed me how much I have to learn still.
 <br><br>
 
+<br>
+If You want find my new projects that thet will show on my profile, come to Repositories section on my profile.
+More projects will be realese on december.
