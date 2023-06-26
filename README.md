@@ -2,7 +2,6 @@ GENERAL
 <br>
 This is the first two projects of mine. I am developing basics of JavaScript, logical thinking and algorithms. 
 <br><br>
-
 FIRST MINI PROJECT: <br><br>
 ![Zrzut ekranu (4)](https://user-images.githubusercontent.com/99299154/194084320-22a6b868-3307-4ccc-9432-91debd4fc9ed.png)
 1. Know how to use eventListener. <br>
@@ -24,14 +23,13 @@ PROJECT JS : <br><br>
 3. Continue of learning querySelector. <br>
 4. Continue of learning eventListener. <br>
 5. Sill learning next and new components from SCSS. <br>
-6. Learned how to use classList. <br>
+6. Learned how to use classList and develop new features in Javascript.<br>
 <br><br>
 SUMMARY -> PROJECT JS <br>
 I have learned statement If. Still learning querySelectors, eventListeners and SCSS. <br>
 New thing that I learned is classList.<br>
 Showed me how much I have to learn still.
 <br><br>
-
 <br>
 If You want find my new projects that thet will show on my profile, come to Repositories section on my profile.
 More projects will be realese on december.
